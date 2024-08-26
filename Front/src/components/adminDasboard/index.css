@@ -1,0 +1,8 @@
+.adminDash-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    min-height: 100vh;
+    background: #111;
+    color: #fff;
+}
